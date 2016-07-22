@@ -1,0 +1,5 @@
+Trixie Scripting Stats (not including Halloween or fireworks):
+
+42 scripts (9 closed)
+7161 lines of code
+257KB of text
